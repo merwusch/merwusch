@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m currently working on socket programming and learning react. I'm a engineer in develop. Hope be better!
-📫 How to reach me: ylmz.merwusch@gmail.com
+💻I’m currently working on socket programming and learning react.<br>📈I'm a engineer in develop. Hope be better!<br>📫 How to reach me: ylmz.merwusch@gmail.com
 
 
 ## 🌐 Socials:
@@ -12,9 +11,6 @@ I’m currently working on socket programming and learning react. I'm a engineer
 ![](https://github-readme-stats.vercel.app/api?username=merwusch&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=merwusch&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=merwusch&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>

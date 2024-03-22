@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I’m currently working on socket programming and learning react.<br>📈I'm a engineer in develop. Hope be better!<br>📫 How to reach me: ylmz.merwusch@gmail.com
+💻I’m currently working with C#, .NET, React, NodeJS, Express, Python.<br>📈I'm a engineer in develop. Hope be better!<br>📫 How to reach me: ylmz.merwusch@gmail.com
 
 
 ## 🌐 Socials:
